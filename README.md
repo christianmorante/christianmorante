@@ -1,7 +1,7 @@
 ### I'm Christian Morante
 ### 👋
 
- #### Systems Engineer graduated from the [University of Guayaquil] (http://www.ug.edu.ec/)
+ #### Systems Engineer graduated from the [University of Guayaquil](http://www.ug.edu.ec/)
 <!--
 **christianmorante/christianmorante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
